@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>CBAED764-489B-43C9-97C7-5D15E54691B8</string>
+	<key>IDESourceControlProjectName</key>
+	<string>BasicExample</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>7A237634-4780-4154-B9D4-0D3154F1402F</key>
+		<string>https://github.com/autolum/onBeat-master.git</string>
+		<key>9F67EA22-5B43-452D-8CC2-703FA14F376D</key>
+		<string>https://kyle.googlecode.com/svn/trunk/openframeworks/addons/ofxFft/libs/fftw/lib</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>BasicExample.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>7A237634-4780-4154-B9D4-0D3154F1402F</key>
+		<string>../..</string>
+		<key>9F67EA22-5B43-452D-8CC2-703FA14F376D</key>
+		<string>../../../../../addons/ofxFft/libs/fftw/lib</string>
+	</dict>
+	<key>IDESourceControlProjectRepositoryRootDictionary</key>
+	<dict>
+		<key>9F67EA22-5B43-452D-8CC2-703FA14F376D</key>
+		<string>https://kyle.googlecode.com/svn</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/autolum/onBeat-master.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>7A237634-4780-4154-B9D4-0D3154F1402F</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>9F67EA22-5B43-452D-8CC2-703FA14F376D</string>
+			<key>IDESourceControlWCCName</key>
+			<string>lib</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>7A237634-4780-4154-B9D4-0D3154F1402F</string>
+			<key>IDESourceControlWCCName</key>
+			<string>onBeat-master</string>
+		</dict>
+	</array>
+</dict>
+</plist>
